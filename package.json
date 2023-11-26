@@ -1,8 +1,8 @@
 {
 	"name": "@rbxts/rbxthumb",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A simple integration to use the rbxthumb api in your project.",
-	"main": "out/init.lua",
+	"main": "out/init.luau",
 	"keywords": ["roblox-ts", "roblox", "http", "rbxthumb", "rbxassetid", "thumbnail", "player", "user"],
 	"author": "kineticwallet",
 	"license": "MIT",
