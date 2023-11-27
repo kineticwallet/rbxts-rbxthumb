@@ -1,8 +1,8 @@
 {
 	"name": "@rbxts/rbxthumb",
-	"version": "1.0.1",
+	"version": "1.0.1-ts",
 	"description": "A simple integration to use the rbxthumb api in your project.",
-	"main": "out/init.luau",
+	"main": "out/init.lua",
 	"keywords": ["roblox-ts", "roblox", "http", "rbxthumb", "rbxassetid", "thumbnail", "player", "user"],
 	"author": "kineticwallet",
 	"license": "MIT",
@@ -26,8 +26,8 @@
 	"devDependencies": {
 		"@rbxts/compiler-types": "2.2.0-types.0",
 		"@rbxts/types": "^1.0.732",
-		"@typescript-eslint/eslint-plugin": "^6.12.0",
-		"@typescript-eslint/parser": "^6.12.0",
+		"@typescript-eslint/eslint-plugin": "^6.13.0",
+		"@typescript-eslint/parser": "^6.13.0",
 		"eslint": "^8.54.0",
 		"eslint-config-prettier": "^9.0.0",
 		"eslint-plugin-prettier": "^5.0.1",
